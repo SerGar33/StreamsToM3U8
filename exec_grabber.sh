@@ -7,3 +7,5 @@ python3 -m pip install beautifulsoup4
 python3 grabber.py > ./streams.m3u8
 
 echo M3U update complete.
+
+python3 grabber.py > ./streams.m3u8
